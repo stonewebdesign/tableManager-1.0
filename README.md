@@ -7,7 +7,7 @@ Prima versione rilasciata.
 
 ---
 
-Table Manager 1.1.0: jQuery plugin for table management
+Table Manager 1.0.1: jQuery plugin for table management
 
 TableManager is a jQuery plugin designed for web developers and web designers who need to work with html tables. This plugin was designed and created to facilitate the table management, often used, for example, into sites' backends or in showing results of some queries. Thanks to it it will be very easy to make your tables sortable by column, but also filter them through a text input and split into pages.
 
